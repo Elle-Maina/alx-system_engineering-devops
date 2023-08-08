@@ -1,1 +1,1 @@
-display the contents of a file
+display the 10 last lines
